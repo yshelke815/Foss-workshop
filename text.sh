@@ -15,3 +15,6 @@ ls
 
 echo ""
 echo"updateing linux repos"
+
+echo ""
+echo"updating linux repos"
